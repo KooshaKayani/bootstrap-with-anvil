@@ -1,66 +1,233 @@
 unique_ids:
   forms:
     Form1: '1704336268976141947253122.23422'
+    Form2: '1704338525259911218229017.7441'
   modules: {}
   server_modules: {}
   assets:
     js/demo/chart-pie-demo.js: UNVD5OT5VV4I7KTRWGY55CH4VC6ZSGR7
+    vendor/bootstrap/scss/mixins/_grid.scss: UIYSFS5QJMSPESVGPUTBNC7Z4PIHIZGW
+    vendor/fontawesome-free/less/_variables.less: IGPQKMH72I2MNJFZRF7V5CFWLVP2GGUD
+    vendor/fontawesome-free/js/brands.js: AA43YFNIVL2XBW33JAMBPCA3UDXUGX37
     buttons.html: 2AYNQQTXN3A3UNR55X3YRVTDDJGM66QP
+    vendor/bootstrap/scss/mixins/_hover.scss: TCWKRQMUKSIMIT5L3L7LHDTOWEKLSKHX
+    vendor/bootstrap/js/bootstrap.bundle.min.js: OMLCJ7ZDILSG62JX3P2PTTX6EHPQWS4E
+    vendor/bootstrap/scss/_toasts.scss: XS6WL6GLZKY4TV5WBV6SRINZLMNNDFH4
+    vendor/fontawesome-free/css/regular.css: 4THPJ7RLIQKNJDI6KVCC5SH6DUCHSNOZ
+    vendor/jquery/jquery.min.js: A7UUYLO7KAVI2D3D5N2E2LZOXFXCHLGD
+    vendor/bootstrap/scss/_print.scss: S7KEDAN4TRL43NEK7BWRLHI6VGUBCDOO
+    vendor/bootstrap/scss/_close.scss: 6K3ZOMERDHCIGRGKWH2QGPUKIF432XHO
     scss/_global.scss: BOORFRBUDOTUTLUDJK766JPZV6YHPVIR
     scss/_error.scss: CDIN2FCVC3GB4CA6HW4YFGEWDHEKJV67
+    vendor/bootstrap/scss/mixins/_image.scss: RLJYFAX75RGYWIYJSFMWOMPD7DJZLWGY
+    vendor/bootstrap/scss/mixins/_deprecate.scss: MVNJPNR2JQ542N26TDGGTZ3KHBSXEKCB
+    vendor/bootstrap/scss/bootstrap.scss: QLGTDBOTTXRDIEA5Q3QIR6POQQHIKQW5
+    vendor/bootstrap/scss/mixins/_screen-reader.scss: IPWOKVBFU4GGXRP4Q4KZIX7GIA4ICV6S
+    vendor/bootstrap/scss/_reboot.scss: BDNHITZ2OILJXQJOGKS6MCA3WBUJIYGV
+    vendor/bootstrap/scss/utilities/_clearfix.scss: KKUSYBUM6NPWT6KHCUEDQL6U54SOIS63
+    vendor/fontawesome-free/metadata/sponsors.yml: OY7SDTSUOIIEOC4KRCOCVFHWFWNPJRJ3
+    vendor/bootstrap/scss/mixins/_gradients.scss: RL6TTLNDY77VDQQC2Q2Q3D6UHVJGCR4N
     scss/_navs.scss: FW6MTR4GU5SJM4AETM2SK46QPMKWTSWR
+    vendor/fontawesome-free/less/_larger.less: EGUDCQUYJ36IPXQHLGIN43IGTU4TOHYG
+    vendor/bootstrap/js/bootstrap.min.js.map: HRSVBMTMEEVGHSDYQVGKU5EAZHVFGM7T
     utilities-animation.html: XH2TQXXSPDP4IJUHJZID7XL7OHMW6GDQ
     README.md: ADDTHVLLLUHDAUPPVZTBMXYULU7XIZ74
+    vendor/bootstrap/scss/_nav.scss: T4CBYHXM27N3FCNBUQSTF72WYB2Q7KAT
+    vendor/fontawesome-free/metadata/shims.yml: SNZVCO6KXVUUDMC5UPM6W23B3VX7ZZND
+    vendor/bootstrap/scss/_code.scss: GD37EDSXRITB4WQOYZJFDM2LIUO26WJM
+    vendor/fontawesome-free/css/svg-with-js.min.css: VZE5VKYUUSTMVFT63KULRT4ZSZEBLHNX
     scss/_variables.scss: TVXS33PQVRXG7MNQB7HO5SYUFKHVXQAT
+    vendor/fontawesome-free/js/conflict-detection.min.js: FS7ZU426FRGBBRMBAUO3VJ3MZ6KUOAPA
+    vendor/bootstrap/scss/_utilities.scss: TTKWRJZEI5WJOH342BANCEP53ULBLUUS
+    vendor/bootstrap/scss/_badge.scss: NKAPGCFWI5PYJAVZBDBO7P5YEZ7D5AAX
     theme.css: TKDX5NLLJTDZDOMXE5VPCKYOHXGXG576
+    vendor/bootstrap/scss/_alert.scss: IJIVKC2KV32JZ3GPCFAZ5I7RZPJZ3SHO
+    vendor/bootstrap/scss/_carousel.scss: CVKLDNIJSBVWANNX5N2JLWQDXO4Q7V4P
+    vendor/bootstrap/js/bootstrap.js: 5GQ3LBYQHEZC35NBP5URF3266FPB5RIX
     utilities-other.html: XEVZWWVZJ2STMB7W26NO6DCMVTDBZXDH
+    vendor/bootstrap/scss/utilities/_interactions.scss: BTFVZZZQQSUDJGN4M564YVJ5ODCC4WFU
+    vendor/fontawesome-free/css/all.min.css: 7XTH5BKYCQC647DU33OL7ETULOVT6F4K
+    vendor/fontawesome-free/less/_stacked.less: 5JPS6TUY7FV2NOM6T6TVUJSKBDNU4SWI
     scss/navs/_topbar.scss: F6XFSH4CV2ZVGRGWXPLALWA43SQFMBOY
+    vendor/bootstrap/scss/mixins/_grid-framework.scss: TZNSUWUKJATBFS7AMLTAG7RLRT2BJQDS
+    vendor/fontawesome-free/js/solid.js: TN4DCWKNG62UJBNISBJJARA62GEP3BQM
     scss/_buttons.scss: VQC6YQSDHOYJHXHXO2W3FGDETIM2UFGP
+    vendor/bootstrap/scss/_images.scss: 4XTDBOQ2NYNM6HZJIOFLLJ5J4OLFTXNR
     scss/navs/_sidebar.scss: DUSBX7XIT2PNM4RRY7UB7ACKCVNQ2MMD
     scss/_dropdowns.scss: V4JVQ5JCO2F6G6SK32ZHLSFDNOX7LGOY
     scss/sb-admin-2.scss: ZDZEHK636Q6MCU7GZUX2BTFJSA7KP4C4
+    vendor/fontawesome-free/less/fontawesome.less: Q5X5Y2PJQULL345GA5A647372BCN26KO
     scss/utilities/_border.scss: IZWD55ZSCBJSZWD7R3TJ7LSZKA6JGZDJ
     login.html: IR6T74TV5AF3UEGR3XC5ZXUWZ4FDE2AP
     LICENSE: 37IX35DV42QJOJ53GZ3E2AUQTWQ6G7ZH
+    vendor/bootstrap/scss/mixins/_nav-divider.scss: MR5QKSBC47ERD3UTAF7XTGOBEMTBIPMO
+    vendor/fontawesome-free/js/v4-shims.min.js: 2B7E5HAJL2ZCCFZJPAV77QCV2OXXMGYG
     404.html: 4CZZCP4PTMP644YY2SB4AJQMDWYLECHN
+    vendor/bootstrap/scss/_pagination.scss: PLKETERDNSLDWYDRM3TDD54C2VK4GWHR
+    vendor/fontawesome-free/less/_icons.less: GPJHQIVK37H3SMHKRI6YA6CJNBH4X7FY
+    vendor/fontawesome-free/package.json: IF3NNWLRY4YRMUDMRBTDGQOUGQGMDT7X
+    vendor/bootstrap/scss/utilities/_background.scss: W7I7OOERBC632PWPHBDAUIQRKLYCEHZO
     scss/_utilities.scss: 3BXKVMPDZYQMVNV27FSIFI4UH357H57W
+    vendor/bootstrap/scss/utilities/_visibility.scss: WOMBZYG75DIGSKQWTV76L73Z6LV7JQKF
+    vendor/bootstrap/scss/mixins/_breakpoints.scss: JHB3QSEULQIP6LYLKBEOXNQZKUM4KPWB
     utilities-border.html: FJAFMQI4B2X2FBSG45O3AF35W6FLSLZ5
     img/undraw_profile_3.svg: VM3JUR5YUYVMU73IPL5MB2FP2XQMUGVD
+    vendor/bootstrap/js/bootstrap.min.js: OIDRVKIAASREC7FUVBZFVP7NWDAAHOLQ
+    vendor/datatables/dataTables.bootstrap4.js: YM64UILRMFTGOI5TUFTTN55MVRZN5X2F
+    vendor/fontawesome-free/css/all.css: PCNABTJQ54SPLQ2DTEMW6RVKG5UVK3YZ
+    vendor/fontawesome-free/less/brands.less: HDXFMOTQOLJY62SI6NXBGBK3K272HDZA
+    vendor/bootstrap/scss/_button-group.scss: S4JAU7D4ITYEBE5EQ2D2F47LZYZJIV27
+    vendor/bootstrap/scss/mixins/_pagination.scss: BUKTV5NLCX4IJ7LKUIT6E5BNRPA7P6ZT
+    vendor/bootstrap/scss/mixins/_lists.scss: ZXIM5T6PQ47BGQJGCX5DBLQUMWOOLOJ6
+    vendor/fontawesome-free/less/v4-shims.less: 5IOE6K2PQHZES4IJPJUPMG4UCQIUJUCC
+    vendor/bootstrap/scss/_modal.scss: URIHWB3GY2Y6JARU6ROQEHJAN64KCDEU
+    vendor/fontawesome-free/js/regular.js: D7SXJN3X6GXAUY2MP2FZ5WE6NWBLB3TY
+    vendor/jquery/jquery.min.map: PGH5G2WBON7TEFWEDEU52WCD6L4QP3FS
     standard-page.html: 2UPCMYKIKMXQJME6Q72DSZPT6PBJZE5L
+    vendor/bootstrap/scss/mixins/_float.scss: YPFIBKD5Q6GHZNWYNC32WH7YIJSLX5VV
+    vendor/bootstrap/scss/mixins/_box-shadow.scss: SVS4UHYBYBT342CPZQQ5KZ37PEQAMJQU
     css/sb-admin-2.min.css: VSJ6QH2TGUWK5I6SW5CK64REY6HC6NTN
+    vendor/bootstrap/scss/_media.scss: CD7PLUTO44NVLNI5NEF2G5BFXVNS6MIY
+    vendor/bootstrap/scss/vendor/_rfs.scss: LHNI7XHQHXQ3ZPMHTYH4BYHK5JZLWE6P
     img/undraw_profile_1.svg: QAS7PP6NS26PPOHYQPD342STEO3TNANO
+    vendor/bootstrap/scss/_breadcrumb.scss: MEO5AAVQBPDP5FYIZIYT5QREYTIO6OOX
+    vendor/bootstrap/scss/_list-group.scss: TISVYABA3JLYYBOBIJ5CXC4LRINGEGXY
+    vendor/fontawesome-free/metadata/categories.yml: N6G7KN5JH2HM5WWGCNXF6HIDXYYUWE2T
+    vendor/fontawesome-free/attribution.js: QM4TAVEJSLHOLPNON3FTMSC6LXNKOK34
     scss/utilities/_background.scss: LVS2NHJ56KZZXEF2KOB32PSK66U3RWYG
+    vendor/bootstrap/scss/mixins/_clearfix.scss: WHABPR3XXTFDLG7FEEIJKEOJCLQ2UJP3
+    vendor/chart.js/Chart.min.js: QWFAMNLUVTLC2BDP7VC5MPVFPZE3OSBE
     tables.html: OZSRVWRNGWQBF7RH5LKZZXGP2IA6BUMO
+    vendor/bootstrap/scss/mixins/_badge.scss: DOMEZKVFH6GPTAP52RCCTSZWITARLKO2
+    vendor/jquery-easing/jquery.easing.js: TYHLDX6LFJ2NCL7D35DTD5FCWUFNKSVB
     img/undraw_rocket.svg: B4HEHE74LVQGMWTTMVJHE33TIJOM57V7
+    vendor/fontawesome-free/js/brands.min.js: 72QQJOPSNAG4OWVO37ZF64KVJSYYURQG
     scss/_cards.scss: L3IVHOKGTA7GCZPRQ3BFHNQT5XFFZIWH
+    vendor/fontawesome-free/js/fontawesome.min.js: GKUHTQXJGJCZLA4TZVJJV4ZJ7FKWL7CU
+    vendor/fontawesome-free/js/fontawesome.js: RMH3CPTFTZ73OWA7L756Q5FPB3ERTZ7E
+    vendor/fontawesome-free/js/conflict-detection.js: D7XDL6IW5ZT5U32IEMB7GKTI2U6USAVP
+    vendor/jquery/jquery.js: RV4X4MK6NWANDN55F77BT2CIYBEJYVMJ
     img/undraw_posting_photo.svg: KI3OVBFFZPSIPUDSZ6FSMPDRDLPYS3MJ
+    vendor/bootstrap/scss/utilities/_screenreaders.scss: KXPGP5LBNYIC5MQ5YWNQHS6GIXBKST63
+    vendor/bootstrap/scss/mixins/_size.scss: 5ITDZKWTOE47HUYQ6W62MBWXMECZEZ2G
+    vendor/fontawesome-free/js/all.min.js: HKG7VTGBDF6RZFHDD7OUMFQNR3DSMDXL
     scss/utilities/_display.scss: PSJZZIP7KNO7ENZHYP6GMHZVTXONFOKZ
+    vendor/bootstrap/scss/mixins/_text-truncate.scss: NHYZXU5T3M6IEJTKDWGTWMDI2XYOHJUL
     cards.html: ZF5IZIHQUELRYVYLS7J5B43COVIT6MTL
+    vendor/bootstrap/scss/_popover.scss: 2R2R4MMPFWDQPNKRDVTLIMA4OPEKHQEL
+    vendor/fontawesome-free/less/_screen-reader.less: KJ523UKCEMCVODSOSBB7HXMSCMZX64CF
+    vendor/bootstrap/scss/_type.scss: 4QIPIULGNWE4XGI6MXM5WENDHDTQM5WD
+    vendor/bootstrap/scss/_card.scss: U2HZF4V5ZI5F4HVSWGWRIJDJQSICLEH6
+    vendor/bootstrap/scss/mixins/_buttons.scss: ZG3NYPWQXMWRMTYABF6GSMDN5DJYATP4
+    vendor/fontawesome-free/less/_mixins.less: HZBBHMFDF7AUUWLISVYWIILKC4EU5KWO
     js/sb-admin-2.js: 4IK6BRLAGMI2LHRXH7R2UUUOZVPXC5W4
+    vendor/bootstrap/scss/_functions.scss: SWP3KTWSMKUAGS4PY7I6ZVEDT25L2GQR
     gulpfile.js: B6EIFA4XR24M57Q234D5FBF7EC67HSTA
     scss/navs/_global.scss: DAMQFAHLLV2EMOBTKAAAKBU2ADN4BRQP
+    vendor/datatables/dataTables.bootstrap4.min.js: MRDHUFDOLIN5UNO3STHIZA3AX7HGIZON
+    vendor/fontawesome-free/less/_fixed-width.less: SKE6CQX5Z7OWRSOPKB52JJF3GGNF55W2
+    vendor/bootstrap/scss/utilities/_shadows.scss: 7662TIEURHEHBXAMVGSGAXUEMLXNCMP3
+    vendor/jquery/jquery.slim.js: SD7E5CS6ELMQJJ7WIHRC4HWEOSDGBTRG
+    vendor/bootstrap/scss/utilities/_position.scss: S5BUM5KWTW3KJ2LPFFP2E2BKSAXFC36I
+    vendor/bootstrap/scss/utilities/_embed.scss: SGWNA7MQKE3RM4C64Q2Y6GX6TDSR3BRQ
+    vendor/bootstrap/scss/_progress.scss: Z5B6RMO5VLMH5CZCFMLVGDBZMMKEB7Z6
     index.html: HG4OHW5FOBLLXVEOVKERMWCVPPNX4NHZ
     PRO_UPGRADE.txt: PAKWMN5DMFTPWTAB73KKY7U554BBCLXG
     scss/_mixins.scss: MXFDBGDT4I3AZDP4NKAXLWZLOFPH3RO4
+    vendor/bootstrap/scss/utilities/_spacing.scss: PRNH4XRPF3IA7CMHEEUZQWPRZUKBDTVH
+    vendor/fontawesome-free/less/solid.less: 5WLXYRPZGZQIPVQTOP4DHZQK4RZYQWSN
     scss/_login.scss: M5AHU6CFYNKX4QPMM6UMNBKY5FEXGEUG
+    vendor/bootstrap/scss/mixins/_text-hide.scss: 4CH7IQZILZ7Q56RCI3QKTH2NQF7MMICN
     scss/utilities/_animation.scss: VRZBDT2V3UV2X5GHHJ2BRFRZH2P2ITK2
     scss/utilities/_text.scss: NKXJJQRWHP44PTR7VNRT7LNJN7JGOAVE
+    vendor/bootstrap/scss/mixins/_table-row.scss: OXJ2WLUJQD5RXFFABJJ4SMO3IXI77TAG
+    vendor/chart.js/Chart.bundle.min.js: W2DTZBWE46DY2KZZFZTTNNQCSO3EBCX3
+    vendor/fontawesome-free/js/regular.min.js: 6FR7WZRJ4TVUYBBOTJY2JYEOK57WC33L
+    vendor/bootstrap/scss/_spinners.scss: 5AANW6LRZ3ECJGYOC2Q525TASNOVUGQG
+    vendor/fontawesome-free/metadata/icons.yml: 7XNX2LT3PHO7SDLZ6TNJQZ3PBYL3X5XK
+    vendor/bootstrap/scss/bootstrap-grid.scss: 4XI3S7UY7ZTKA6M2M7XY3EJJ64EJNMPE
+    vendor/fontawesome-free/css/brands.css: UJ3XMQUZTPN6XKKPP7MLVUSIEIZQ2Y3S
     blank.html: ASM6VH5XLCKMXRS5KU4JLQL6FITAVUQV
+    vendor/bootstrap/scss/mixins/_border-radius.scss: JL6HUBGCADF7YAS4XLGN42JHQXJNFRBZ
+    vendor/jquery-easing/jquery.easing.compatibility.js: C2QJAV4NFUG2S3SSQHL6BWCUF2ZQMFR4
+    vendor/bootstrap/scss/_dropdown.scss: QAG4BWFB344MEWC7TB74AMUA2UM7DZ4S
+    vendor/bootstrap/scss/bootstrap-reboot.scss: XIBTJ6HLPY67JNHN77ST2I33URPEKDHL
+    vendor/bootstrap/scss/utilities/_flex.scss: WFSEDWCIO3UU4WRN2JPOB5NB74S3KJHK
+    vendor/fontawesome-free/less/_shims.less: KP4ZGLVVM5BALRGBDRJSSQEPEZO5BWYQ
+    vendor/bootstrap/scss/_navbar.scss: UJTO4OLMUHBGLQ425AQLTWGWFLP6KZDW
+    vendor/bootstrap/scss/mixins/_list-group.scss: JYSHC3V5MUC2PD7AHPYHYG62N2PZLUCM
     package.json: JRLVX3HQVNHORODLKEV55DCZ2LGNN7LO
+    vendor/fontawesome-free/css/fontawesome.css: HD7227MS3QMEC3XXLAUV4UCWD5HSLO4X
+    vendor/bootstrap/js/bootstrap.js.map: SNCK3QDOY3BD4LJLXM4QN6FEGICVYXHB
+    vendor/fontawesome-free/less/_core.less: GEGQMFQA4KJFVWYDL23Y3YVO5L7TEPNI
+    vendor/bootstrap/scss/_buttons.scss: G5LZUPIFRMWSTSG2NP2ZQIRSEFZ3SCQH
     utilities-color.html: WUOO5C7ERFDHH2ZX5NTVBIKK7GJ7LATS
+    vendor/bootstrap/scss/_forms.scss: OO4QKFPTCIGQ2DWYNND2SCAXWL47N5FL
     js/demo/chart-bar-demo.js: KFKTLV5GKHLCMS4GXLGCR6N7E6XQTBN5
+    vendor/fontawesome-free/js/solid.min.js: LNIYWCV6C7BKWL7DAEL54Z37B7UHUQ77
+    vendor/bootstrap/scss/_mixins.scss: HW6P2JFAPETFDSVSQJXERZH7V2SWP32C
+    vendor/fontawesome-free/css/solid.css: 3TTAL2M5IDKIAFPRJLU3DHI2CGQEZRIB
     scss/_charts.scss: DDULQVTIFMN3YK5QWKUVBGOI6GWWD333
+    vendor/bootstrap/scss/_tooltip.scss: CUHLPN3RDPXRI22324I5PKJPQOMIL3KC
+    vendor/bootstrap/scss/mixins/_resize.scss: YBBZRLUNCBNUOYZN6U7OUGNUNZC2ESKQ
+    vendor/bootstrap/scss/utilities/_float.scss: RCJJF3NFQZZEZ2WVXGUV7FQ6EPTXE6IX
+    vendor/chart.js/Chart.bundle.js: 6PPFMSS2DVLHVBG3ACZVIEU3ULLIVH2G
+    vendor/fontawesome-free/less/_bordered-pulled.less: KKSCHMDEKMRMW7WLLB6WWDNQ7BMFGK2L
+    vendor/fontawesome-free/css/svg-with-js.css: KOFLLDSMUM6ID4MNNVDHMGX4MRASJ2MM
+    vendor/bootstrap/scss/_input-group.scss: FYLLD5EXFX7OB54UIAFAZ3L5HY7KVFBH
+    vendor/fontawesome-free/css/brands.min.css: HNXDJHIM7VMV4REERI65QHF2VXSEHTGW
+    vendor/fontawesome-free/css/solid.min.css: Q2WHO5T2YZDBA3EG3MINYXH5SKL4BE23
+    vendor/fontawesome-free/LICENSE.txt: JBZM5R2TVP2BTJ7Y3MVMBQPIUVV736XZ
+    vendor/bootstrap/scss/_root.scss: GWNZGHAWPN3MNEJGXLA5E6UBDUGVUQTY
+    vendor/bootstrap/js/bootstrap.bundle.min.js.map: FMJFAV4QTT5SBHW6MBNTV7LRAO53DM6Z
+    vendor/fontawesome-free/less/_list.less: 7DCMCFQABMLLZHHQ5HHVWKTN65GMBRUH
     forgot-password.html: 5B2NH446CGG7FJ7KRT7P5BKF3ANNABXE
+    vendor/bootstrap/scss/utilities/_display.scss: 3NIVPYZWZTTD2GR73CMA7CCORTOVWX4A
+    vendor/bootstrap/scss/utilities/_text.scss: IVYAKZ6XTGKHJPRDQFVLE7IQLIYM37JO
+    vendor/fontawesome-free/css/fontawesome.min.css: NDOALJCHUHTQRT3KHU3ZKRIOS5IS2KRR
     css/sb-admin-2.css: CMGJBVUVNQ5XPWCDROCD7JVXYHHKTKIT
+    vendor/chart.js/Chart.js: ID3TUBZYHBYR7LH25FFKCHKWYYZ2NFYR
+    vendor/bootstrap/scss/mixins/_text-emphasis.scss: CCZJO5RPXMFJA3H6EKV2HKE3YPG5IVQN
+    vendor/bootstrap/scss/_grid.scss: ENW6EUF3ANSJKNDCSEZ5JMJWOS5OMDJD
     vendor/.gitkeep: '1704337021417390455382683.6078'
+    vendor/fontawesome-free/css/v4-shims.min.css: FADX2NYIE6LUVY2I7HLLFGPRZRY36FBL
+    vendor/bootstrap/scss/mixins/_reset-text.scss: YMWXVTZRI2LZCJGRXC6CLRBDENHZBFWA
+    vendor/bootstrap/scss/utilities/_stretched-link.scss: XKYLSKV6OI6P3MAJPAEQI232MAPWFGUP
+    vendor/fontawesome-free/less/regular.less: KX5INCBSY4JC5ZALENAIYKDYPJMLURCG
+    vendor/bootstrap/scss/utilities/_align.scss: FMVGJWGSSI3NFFXL5FGPPSXJLUYBEUWH
+    vendor/bootstrap/scss/_jumbotron.scss: CUCHXWLP35AOQMXTIUH33W6OQXY7LJDY
     register.html: V53VALSE73H6VF2QVENIIF5KPLTMQKBS
+    vendor/jquery-easing/jquery.easing.min.js: TAP7ECO4TD4DEHPXUQ74TVE3AEVNHAW6
     img/undraw_profile.svg: JJKIU5S4KPM7IHSX7NE5GFHTZTB75J6V
+    vendor/bootstrap/js/bootstrap.bundle.js.map: JQKSFCEW5ZTRMA56M6BQWEGINMRNSXIX
+    vendor/jquery/jquery.slim.min.js: OZEHTQAZRNQL7SWR7QD5VJB7WDWQO3HD
+    vendor/bootstrap/scss/utilities/_sizing.scss: US5A3UKPPRUVC5YQK6BDFFOB2PN2WIMV
     js/sb-admin-2.min.js: IKPMYRXGAUZJAQJ6D2ZBR76YVUM2HBIR
+    vendor/bootstrap/scss/_custom-forms.scss: PCVLP3G4UXIU2CVVBCXJYRAK4VRJS3XM
     scss/utilities/_progress.scss: ZOFIZDLN4A7DYSZBJNDWQUUSGN2XHSXT
     js/demo/chart-area-demo.js: I3BJE7BSYCMI54IEIO2XMQRA4U5S552E
+    vendor/fontawesome-free/less/_rotated-flipped.less: LXE2OMFOZV64Q4R5OXAS6IYQL3OY42ST
+    vendor/bootstrap/scss/utilities/_overflow.scss: AMEW3FPHHZW6GBXD6XNGOWXGCQGSE3YG
+    vendor/bootstrap/scss/_transitions.scss: TY2JGUNQNFQFGDVQL7LRCUT4W5TYVFSD
+    vendor/bootstrap/scss/mixins/_background-variant.scss: 7AEI2Y35DBBYCH7WWIHIVGQEWRFEPIQC
+    vendor/fontawesome-free/css/v4-shims.css: LJ3M2VIC2E3NT5QHRK6Z5HFUIZ2ZWTFX
+    vendor/bootstrap/scss/_variables.scss: 542COABNSBTDF24LHXUSTRNTJ6WL24LF
     js/demo/datatables-demo.js: F55G4QIDZ6M752YBK4WFSDN7YHT2R3GA
+    vendor/bootstrap/scss/_tables.scss: FAIB3K7BTNH3NPFK6Q2ES4GH2AEPEJWP
+    vendor/jquery/jquery.slim.min.map: BZDGSDF5C6JWXILQHAQN6FMHILLCVEBZ
     charts.html: WU7OITJWGPH22WEK75UBDKCQFNKQVKVR
+    vendor/fontawesome-free/js/v4-shims.js: MZU3ALMUCQ43N7FTUQ5FRCCXGPVPZATR
     img/undraw_profile_2.svg: I7NBH4DEKSHWGHTCIK62RFTBPJMBSJBT
     package-lock.json: IWARYWGIUIXFRTNPNT765AILDZID5OGH
+    vendor/bootstrap/scss/utilities/_borders.scss: POUM7FIQQ526P73DV2IW4U5BBXNVXWR7
     scss/_footer.scss: TMMBHK5DXG5HAUENI2D6T64GVX5B6MBQ
+    vendor/bootstrap/scss/mixins/_caret.scss: KEHY24OTOPGR7TTVH7HFXQQBYCXM2RNN
+    vendor/fontawesome-free/css/regular.min.css: EF4KGZRQGSLLO2VKPOXGV4EGG54UEKWF
+    vendor/fontawesome-free/js/all.js: LNYPSWK75XCFUPTVW3CNJCIXZD6HGEDM
+    vendor/bootstrap/js/bootstrap.bundle.js: USD66ZXFYUY6UC5BSXBNWBTL7AA7P5VR
+    vendor/bootstrap/scss/mixins/_forms.scss: X3L33ESOO3GIE46E5IF5GG2TZAVOBXAV
+    vendor/bootstrap/scss/mixins/_visibility.scss: 3PMEOBIAJ3M3T6TL53QPAAIQBWWWPPCX
     scss/utilities/_rotate.scss: E6IE4HZYXWGMLH5MTMEGOGN7JORJZ5UV
+    vendor/bootstrap/scss/mixins/_alert.scss: P6BOPKXIJALJYBGAPTAV4UQKVBAX2CRE
+    vendor/bootstrap/scss/mixins/_transition.scss: VZL6QUKMCFSHGJYIODF64LL6QJHFMYF6
+    vendor/fontawesome-free/less/_animated.less: F7M6ZMW6GPBFY7FOX6JDZV7XFCWCCDIF

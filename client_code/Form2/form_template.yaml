@@ -1,0 +1,6 @@
+container:
+  type: HtmlTemplate
+  properties: {html: '@theme:index.html'}
+components: []
+is_package: true
+data_bindings: []
